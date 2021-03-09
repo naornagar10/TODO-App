@@ -1,0 +1,21 @@
+.NewTask {
+  position: relative;
+  height: 10%;
+  display: flex;
+}
+
+input {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  position: absolute;
+}
+
+.Spinner {
+  right: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}

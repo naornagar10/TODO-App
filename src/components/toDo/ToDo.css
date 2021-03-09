@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ToDo {
+  height: 90%;
+  width: 40%;
+  position: absolute;
+  border: 2px solid black;
+  top: 2%;
+  left: 50%;
+  transform: translateX(-50%);
+}
